@@ -17,11 +17,9 @@ Welcome to **Baax**, an open-source organization building next-gen developer too
 | Project | Description | Language / Stack |
 |---------|-------------|----------------|
 | **Baax CLI** | Scaffolds backend projects instantly with your choice of framework, database, and integrations. | Python, Node.js |
-| **GitAgent** | Automates complex Git workflows, conflict resolution, and branching using AI agents. | Python |
-| **AutoPilot CFO** | Autonomous AI financial assistant for SMBs to manage budgets, cash flow, and compliance. | Python |
-| **AtherAI** | Multi-agent workflow automation platform combining AI and SaaS tools for productivity. | Python, Node.js |
+| **GitAgent(Upcoming)** | Automates complex Git workflows, conflict resolution, and branching using AI agents. | Python |
 
-> Visit the [repositories](https://github.com/baax) to explore code, issues, and contribution guides.
+> Visit the [repositories](https://github.com/BaaxCli) to explore code, issues, and contribution guides.
 
 ---
 
@@ -29,7 +27,7 @@ Welcome to **Baax**, an open-source organization building next-gen developer too
 
 We welcome contributions! Here's how you can help:
 
-1. Fork a repo from [our GitHub organization](https://github.com/baax).  
+1. Fork a repo from [our GitHub organization](https://github.com/BaaxCli).  
 2. Read the project README and follow setup instructions.  
 3. Pick an issue labeled `good first issue` or `help wanted`.  
 4. Submit a PR and let’s build amazing tools together!  
@@ -40,8 +38,8 @@ For questions or guidance, reach out via GitHub discussions or open an issue.
 
 ## 🔗 Connect with Us
 
-- GitHub: [https://github.com/baax](https://github.com/baax)  
-- Twitter / LinkedIn / Website: *[Add your links here]*  
+- GitHub: [github.com/baax](https://github.com/baax)  
+- LinkedIn: [linkedin.com/in/nagarajneelam/](https://www.linkedin.com/in/nagarajneelam/)
 
 ---
 
