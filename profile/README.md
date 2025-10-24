@@ -1,10 +1,10 @@
-# 🚀 Baax
+#  Baax
 
 Welcome to **Baax**, an open-source organization building next-gen developer tools, backend accelerators, and AI-powered automation frameworks. Our mission is to **empower developers and teams to bootstrap projects, automate workflows, and scale faster** with minimal effort.  
 
 ---
 
-## 🌟 Our Focus Areas
+##  Our Focus Areas
 
 - **Backend Acceleration**: CLI tools like `Baax` to scaffold backend applications in Node.js (NestJS, Express) and Python (FastAPI, Flask, Django).  
 - **AI-Powered Automation**: Multi-agent workflows, Git automation, and AI assistants to speed up developer productivity.  
